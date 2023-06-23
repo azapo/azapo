@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Aram Zaprosyan, an undergraduate computer science student at the University of Maryland, College Park!
+
 <!--
 **azapo/azapo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
